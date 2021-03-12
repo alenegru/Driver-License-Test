@@ -1,0 +1,325 @@
+[
+  {
+  "idQuestion": 1,
+  "question": "Cum trebuie să procedaţi atunci când intenţionaţi să finalizaţi o depăşire?",
+  "possibleAnswers" : ["a) semnalizaţi revenirea şi efectuaţi manevra în condiţii de siguranţă",
+    "b) după reîncadrare, semnalizaţi cu luminile de avarie",
+    "c) claxonaţi şi vă angajaţi pe partea dreaptă, direct în faţa vehiculului depăşit"],
+  "correctAnswers": ["a) semnalizaţi revenirea şi efectuaţi manevra în condiţii de siguranţă"]
+  },
+  {
+    "idQuestion": 2,
+    "question": " Conducătorul de autovehicul poate efectua depăşirea pe partea dreaptă a autovehiculului al cărui conducător a semnalizat intenţia schimbării direcţiei de mers spre stânga?",
+    "possibleAnswers" : ["a) da, dacă vehiculul din faţă s-a angajat corespunzător părăsirii sensului de mers",
+      "b) da, dacă s-a creat spaţiu suficient pentru această manevră",
+      "c) nu"],
+    "correctAnswers": ["a) da, dacă vehiculul din faţă s-a angajat corespunzător părăsirii sensului de mers", "b) da, dacă s-a creat spaţiu suficient pentru această manevră"]
+  },
+  {
+    "idQuestion": 3,
+    "question": " La intersecţia nedirijată dintre un drum naţional şi unul judeţean, comunal sau local, prioritatea de trecere se acordă:",
+    "possibleAnswers" : ["a) vehiculelor care circulă pe drumul judeţean, comunal sau local",
+      "b) vehiculelor care vin din dreapta",
+      "c) vehiculelor care circulă pe drumul naţional"],
+    "correctAnswers": ["c) vehiculelor care circulă pe drumul naţional."]
+  },
+  {
+    "idQuestion": 4,
+    "question": " Când este permisă trecerea la nivel cu o cale ferată fără bariere, prevăzută cu semnalizare luminoasă, dacă tocmai a trecut un tren?",
+    "possibleAnswers" : ["a) după ce s-a stins lumina roşie intermitentă",
+      "b) după ce a trecut ultimul vagon",
+      "c) atunci când pleacă vehiculele aflate de cealaltă parte a căii ferate"],
+    "correctAnswers": ["a) după ce s-a stins lumina roşie intermitentă"]
+  },
+  {
+    "idQuestion": 5,
+    "question": " Aveţi obligaţia de a opri imediat autovehiculul la semnalele adresate de:",
+    "possibleAnswers" : ["a) membrii patrulelor şcolare de circulaţie, de la trecerile pentru pietoni din apropierea unităţilor de învăţământ",
+      "b) personalul autorizat din cadrul Ministerului Transporturilor",
+      "c) lucrătorii ce îşi desfăşoară activitatea în cadrul Administraţiei Drumurilor"],
+    "correctAnswers": ["a) membrii patrulelor şcolare de circulaţie, de la trecerile pentru pietoni din apropierea unităţilor de învăţământ"]
+  },
+  {
+    "idQuestion": 6,
+    "question": " Dacă semaforul în funcţiune se află instalat de cealaltă parte a intersecţiei, conducătorul de autovehicul:",
+    "possibleAnswers" : ["a) nu este obligat să respecte semnificaţia semnalelor luminoase, deoarece nu i se adresează",
+      "b) este obligat să respecte semnificaţia semnalelor luminoase, doar dacă semaforul este însoţit de un semn adiţional care indică direcţiile cărora li se adresează semnalele",
+      "c) este obligat să respecte semnificaţia semnalelor luminoase ale acestuia, dacă un alt semafor instalat la intrarea în intersecţie are în funcţiune un semnal similar."],
+    "correctAnswers": ["c) este obligat să respecte semnificaţia semnalelor luminoase ale acestuia, dacă un alt semafor instalat la intrarea în intersecţie are în funcţiune un semnal similar."]
+  },
+  {
+    "idQuestion": 7,
+    "question": " Depăşirea nu este permisă:",
+    "possibleAnswers" : ["a) atunci când vehiculul ce urmează a fi depăşit rulează cu viteza admisă de lege",
+      "b) în orice locuri şi situaţii în care vizibilitatea nu permite executarea manevrei",
+      "c) atunci când traficul rutier este aglomerat."],
+    "correctAnswers": ["b) în orice locuri şi situaţii în care vizibilitatea nu permite executarea manevrei"]
+  },
+  {
+    "idQuestion": 8,
+    "question": " Întoarcerea autovehiculului este interzisă:",
+    "possibleAnswers" : ["a) unde marcajul axial este discontinuu",
+      "b) în intersecţiile unde este necesară manevrarea înainte şi înapoi",
+      "c) în zona de acţiune a indicatorului „Staţionarea interzisă"],
+    "correctAnswers": ["b) în intersecţiile unde este necesară manevrarea înainte şi înapoi"]
+  },
+  {
+    "idQuestion": 9,
+    "question": " La ieşirea din zonele rezidenţiale sau pietonale, sunteţi obligat să acordaţi prioritate:",
+    "possibleAnswers" : ["a) autovehiculelor",
+      "b) pietonilor de pe sensul opus de circulaţie",
+      "c) tuturor vehiculelor cu care vă intersectaţi"],
+    "correctAnswers": ["c) tuturor vehiculelor cu care vă intersectaţi"]
+  },
+  {
+    "idQuestion": 10,
+    "question": " Precizaţi în care dintre situaţii este interzisă staţionarea voluntară a vehiculelor?",
+    "possibleAnswers" : ["a) în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice",
+      "b) în zona aglomerată a pieţelor",
+      "c) în pante şi în rampe"],
+    "correctAnswers": ["a) în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice", "c) în pante şi în rampe"]
+  },
+  {
+    "idQuestion": 11,
+    "question": " Ce manevre sunt interzise pe autostradă?",
+    "possibleAnswers" : ["a) oprirea şi efectuarea unei pene de cauciuc",
+      "b) învăţarea conducerii unui vehicul",
+      "c) încercarea prototipurilor de şasiuri şi de vehicule cu motor."],
+    "correctAnswers": ["b) învăţarea conducerii unui vehicul", "c) încercarea prototipurilor de şasiuri şi de vehicule cu motor."]
+  },
+  {
+    "idQuestion": 12,
+    "question": " În care dintre situaţii se reţine certificatul de înmatriculare sau înregistrare?",
+    "possibleAnswers" : ["a) când inspecţia tehnică periodică a expirat",
+      "b) dacă zgomotul în mers sau staţionare depăşeşte limita legală admisă",
+      "c) când motorul emite noxe poluante peste limitele legale admise."],
+    "correctAnswers": ["a) când inspecţia tehnică periodică a expirat",
+      "b) dacă zgomotul în mers sau staţionare depăşeşte limita legală admisă",
+      "c) când motorul emite noxe poluante peste limitele legale admise."]
+  },
+  {
+    "idQuestion": 13,
+    "question": " Este permisă staţionarea autovehiculelor pe timpul nopţii pe partea carosabilă a unui drum comunal neiluminat?",
+    "possibleAnswers" : ["a) da, dacă se aprind luminile de poziţie sau de staţionare",
+      "b) nu, întrucât în toate cazurile se interzice pe timpul nopţii staţionarea pe partea carosabilă",
+      "c) da, dacă în afara luminilor de poziţie, prezenţa autovehiculului este semnalizată şi cu ajutorul triunghiurilor reflectorizante."],
+    "correctAnswers": ["a) da, dacă se aprind luminile de poziţie sau de staţionare"]
+  },
+  {
+    "idQuestion": 14,
+    "question": " Ce se înţelege prin conduită preventivă?",
+    "possibleAnswers" : ["a) un concept valabil pentru conducătorii auto începători",
+      "b) comportamentul rutier care asigură prevenirea accidentelor, prin anticiparea şi evitarea acţiunilor incorecte ale partenerilor de drum, precum şi adaptarea vitezei de deplasare la condiţiile meteo-rutiere specifice",
+      "c) calitatea unor conducători auto de a circula prudent, cu viteză redusă, pentru a nu crea neplăceri în trafic celorlalţi utilizatori ai drumului public."],
+    "correctAnswers": ["b) comportamentul rutier care asigură prevenirea accidentelor, prin anticiparea şi evitarea acţiunilor incorecte ale partenerilor de drum, precum şi adaptarea vitezei de deplasare la condiţiile meteo-rutiere specifice"]
+  },
+  {
+    "idQuestion": 15,
+    "question": " Conducătorului auto i se interzice:",
+    "possibleAnswers" : ["a) să arunce din vehicul obiecte, substanţe sau alte bunuri",
+      "b) să deschidă uşile, dacă vehiculul este oprit sau staţionat pe partea carosabilă",
+      "c) să folosească instalaţia de sonorizare cu care este echipat autoturismul."],
+      "correctAnswers": [" a) să arunce din vehicul obiecte, substanţe sau alte bunuri"]
+  },
+  {
+    "idQuestion": 16,
+    "question": " Cum se pedepseşte conducerea pe drumurile publice a unui autovehicul din categoria C, de către o persoană al cărei permis este valabil pentru categoria B?",
+    "possibleAnswers" : ["a) penal",
+      "b) contravenţional",
+      "c) amendă contravenţională şi reţinerea permisului de conducere."],
+    "correctAnswers": [" a) penal"]
+  },
+  {
+    "idQuestion": 17,
+    "question": " Conducătorul unui autoturism poate transporta obiecte al căror gabarit depăşeşte, împreună cu încărcătura, dimensiunile acestuia?",
+    "possibleAnswers" : ["a) da, dacă extremitatea obiectelor este semnalizată cu un steag roşu",
+      "b) nu",
+      "c) da, dacă obiectele depăşesc lăţimea autovehiculului."],
+    "correctAnswers": [" b) nu"]
+  },
+  {
+    "idQuestion": 18,
+    "question": " Perna de aer (AIRBAG-ul) asigură:",
+    "possibleAnswers" : ["a) amortizarea rapidă a trepidaţiilor datorate denivelărilor existente pe drumul public",
+      "b) protecţia suplimentară a persoanelor în cazul unui impact puternic al autovehiculului",
+      "c) posibilitatea conducerii relaxate, cu capul sprijinit de aceasta."],
+    "correctAnswers": [" b) protecţia suplimentară a persoanelor în cazul unui impact puternic al autovehiculului"]
+  },
+  {
+    "idQuestion": 19,
+    "question": " La întâlnirea cărui indicator conducătorul auto nu are prioritate de trecere?",
+    "possibleAnswers" : ["a) „Prioritate pentru circulaţia din sens invers”",
+      "b) „Prioritate faţă de circulaţia din sens invers”",
+      "c) „Drum cu prioritate”."],
+    "correctAnswers": [" a) „Prioritate pentru circulaţia din sens invers”"]
+  },
+  {
+    "idQuestion": 20,
+    "question": " Ce vehicule au voie să pătrundă în intersecţie la culoarea roşie a semaforului?",
+    "possibleAnswers" : ["a) niciun vehicul, cu excepţia celor destinate stingerii incendiilor, ale ambulanţei şi ale poliţiei, când se deplasează în acţiuni de intervenţie sau în misiuni care impun urgenţă",
+      "b) autovehiculele care virează la stânga",
+      "c) autovehiculele poliţiei şi cele care execută virajul la stânga."],
+    "correctAnswers": ["a) niciun vehicul, cu excepţia celor destinate stingerii incendiilor, ale ambulanţei şi ale poliţiei, când se deplasează în acţiuni de intervenţie sau în misiuni care impun urgenţă"]
+  },
+  {
+    "idQuestion": 21,
+    "question": " În cazul în care, într-o intersecţie, lângă semaforul în stare de funcţionare este instalat indicatorul „Oprire“, sunteți obligat să respectaţi:",
+    "possibleAnswers" : ["a) semnificaţia indicatorului",
+      "b) regula priorităţii de dreapta",
+      "c) semnificaţia luminii semaforului."],
+    "correctAnswers": ["c) semnificaţia luminii semaforului."]
+  },
+  {
+    "idQuestion": 22,
+    "question": " Avertizarea sonoră se foloseşte:",
+    "possibleAnswers" : ["a) ori de câte ori este necesar, pentru evitarea unui pericol imediat",
+      "b) la trecerea pe lângă biciclişti",
+      "c) în localităţi, la apropierea de o trecere pentru pietoni."],
+    "correctAnswers": ["a) ori de câte ori este necesar, pentru evitarea unui pericol imediat"]
+  },
+  {
+    "idQuestion": 23,
+    "question": " Depăşirea vehiculelor pe drumurile publice este interzisă:",
+    "possibleAnswers" : ["a) pe sectorul de drum unde s-a format o coloană de autovehicule în aşteptare, dacă prin aceasta se intră pe sensul opus de circulaţie",
+      "b) în intersecţiile dirijate doar cu indicatoare rutiere",
+      "c) atunci când cel depăşit este remorcat şi are puse în funcţiune luminile de avarie."],
+    "correctAnswers": ["a) pe sectorul de drum unde s-a format o coloană de autovehicule în aşteptare, dacă prin aceasta se intră pe sensul opus de circulaţie"]
+  },
+  {
+    "idQuestion": 24,
+    "question": " Sunteţi obligat să nu depăşiţi viteza de 50 km/h în afara localităţilor, în următoarele situaţii:",
+    "possibleAnswers" : ["a) când partea carosabilă este acoperită cu mâzgă",
+      "b) la coborârea drumurilor în pantă",
+      "c) la întâlnirea indicatorului „Prioritate pentru circulaţia din sens invers“"],
+    "correctAnswers": ["a) când partea carosabilă este acoperită cu mâzgă"]
+  },
+  {
+    "idQuestion": 25,
+    "question": " Este permisă deţinerea, montarea sau folosirea la autovehicule a sistemelor care perturbă buna funcţionare a dispozitivelor de supraveghere a traficului?",
+    "possibleAnswers" : ["a) da",
+      "b) nu",
+      "c) acest aspect nu este stabilit legal."],
+    "correctAnswers": ["b) nu"]
+  },
+  {
+    "idQuestion": 26,
+    "question": " În ce situaţii sunteţi obligat să acordaţi prioritate de trecere",
+    "possibleAnswers" : ["a) într-o intersecţie nedirijată, atunci când pătrundeţi pe un drum naţional, venind de pe un drum judeţean",
+      "b) la întâlnirea indicatorului „Drum cu prioritate“",
+      "c) la întâlnirea pietonilor aflaţi pe sensul de mers opus."],
+    "correctAnswers": ["a) într-o intersecţie nedirijată, atunci când pătrundeţi pe un drum naţional, venind de pe un drum judeţean"]
+  },
+  {
+    "idQuestion": 27,
+    "question": " Conducătorii de vehicule trebuie să respecte regulile de circulaţie, generale şi particulare, în următoarea ordine:",
+    "possibleAnswers" : ["a) semnalele, indicaţiile şi dispoziţiile poliţistului rutier semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară semnalizarea temporară",
+      "b) semnalele, indicaţiile şi dispoziţiile poliţistului rutier semnalizarea temporară semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară",
+      "c) semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară semnalele, indicaţiile şi dispoziţiile poliţistului rutier semnalizarea temporară."],
+    "correctAnswers": ["a) semnalele, indicaţiile şi dispoziţiile poliţistului rutier semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulaţie prioritară semnalizarea temporară"]
+  },
+  {
+    "idQuestion": 28,
+    "question": " Pentru care dintre faptele de mai jos se aplică măsura reţinerii permisului de conducere?",
+    "possibleAnswers" : ["a) pentru neoprirea la semnalul regulamentar al poliţistului",
+      "b) pentru nerespectarea dispoziţiilor legale referitoare la depăşire",
+      "c) pentru nerespectarea normelor privind folosirea luminilor pe timp de noapte."],
+    "correctAnswers": ["a) pentru neoprirea la semnalul regulamentar al poliţistului",
+      "b) pentru nerespectarea dispoziţiilor legale referitoare la depăşire"]
+  },
+  {
+    "idQuestion": 29,
+    "question": " Care dintre variantele de mai jos reprezintă calităţi ale unui ulei de motor?",
+    "possibleAnswers" : ["a) culoarea",
+      "b) vâscozitatea",
+      "c) punctul de congelare."],
+    "correctAnswers": ["b) vâscozitatea", "c) punctul de congelare."]
+  },
+  {
+    "idQuestion": 30,
+    "question": " Care este poziţia corectă a conducătorului auto în timpul conducerii?",
+    "possibleAnswers" : ["a) să fie cât mai concentrat, să ţină volanul strâns şi privirea îndreptată numai înainte şi să stea cât mai aproape de parbriz",
+      "b) să stea cât mai confortabil pe scaun, cu capul rezemat de tetieră şi cu ambele mâini pe volan, în zona orelor 10:00-14:00",
+      "c) cea mai corectă poziţie în timpul conducerii auto este aceea care previne apariţia somnului."],
+    "correctAnswers": ["b) să stea cât mai confortabil pe scaun, cu capul rezemat de tetieră şi cu ambele mâini pe volan, în zona orelor 10:00-14:00"]
+  },
+  {
+    "idQuestion": 31,
+    "question": " În care dintre următoarele cazuri, pe lângă amenda contravenţională, se reţine şi permisul de conducere?",
+    "possibleAnswers" : ["a) neoprirea la semnalul persoanelor autorizate din zona de lucrări la drumul public",
+      "b) nerespectarea semnalelor poliţiştilor la trecerea coloanelor oficiale",
+      "c) neoprirea la semnalul agentului de cale ferată."],
+    "correctAnswers": ["b) nerespectarea semnalelor poliţiştilor la trecerea coloanelor oficiale"]
+  },
+  {
+    "idQuestion": 32,
+    "question": " În care dintre situaţii se dispune imobilizarea unui vehicul?",
+    "possibleAnswers" : ["a) conducătorul acestuia nu are asupra sa permisul de conducere",
+      "b) starea tehnică a vehiculului deteriorează drumul public sau afectează mediul",
+      "c) conducătorul autovehiculului nu are asupra sa certificatul de înmatriculare."],
+    "correctAnswers": ["b) starea tehnică a vehiculului deteriorează drumul public sau afectează mediul"]
+  },
+  {
+    "idQuestion": 33,
+    "question": " Poliţistul rutier are dreptul de a confisca:",
+    "possibleAnswers" : ["a) centurile de siguranţă neomologate",
+      "b) mijloacele proprii de detectare a dispozitivelor de măsurare a vitezei",
+      "c) dispozitivele care perturbă funcţionarea mijloacelor tehnice de supraveghere a traficului."],
+    "correctAnswers": ["c) dispozitivele care perturbă funcţionarea mijloacelor tehnice de supraveghere a traficului."]
+  },
+  {
+    "idQuestion": 34,
+    "question": " Hemoragia nazală se poate opri dacă accidentatul:",
+    "possibleAnswers" : ["a) stă culcat cu capul pe spate",
+      "b) stă în picioare şi îşi strânge ambele nări timp de aproximativ 5-10 minute",
+      "c) ridică mâna dreaptă."],
+    "correctAnswers": ["b) stă în picioare şi îşi strânge ambele nări timp de aproximativ 5-10 minute"]
+  },
+  {
+    "idQuestion": 35,
+    "question": " Uzura pneurilor creşte foarte mult:",
+    "possibleAnswers" : ["a) la demarări şi frânări intense, consecinţe ale unui stil agresiv de conducere",
+      "b) atunci când se conduce preventiv-defensiv",
+      "c) la circulaţia pe timp nefavorabil."],
+    "correctAnswers": ["a) la demarări şi frânări intense, consecinţe ale unui stil agresiv de conducere"]
+  },
+  {
+    "idQuestion": 36,
+    "question": " Puteţi trece cu autovehiculul peste o linie continuă dacă:",
+    "possibleAnswers" : ["a) linia continuă este însoţită de una discontinuă, iar aceasta din urmă este mai apropiată de sensul dvs. de deplasare",
+      "b) aceasta este aplicată pe drumuri cu mai mult de o bandă pe sensul de mers",
+      "c) aceasta separă sensurile de circulaţie."],
+    "correctAnswers": ["a) linia continuă este însoţită de una discontinuă, iar aceasta din urmă este mai apropiată de sensul dvs. de deplasare"]
+  },
+  {
+    "idQuestion": 37,
+    "question": " Marcajul aplicat pe marginea din dreapta a părţii carosabile, format dintr-o linie în zig-zag, semnifică:",
+    "possibleAnswers" : ["a) interzicerea staţionării",
+      "b) interzicerea opririi",
+      "c) alte pericole."],
+    "correctAnswers": ["a) interzicerea staţionării"]
+  },
+  {
+    "idQuestion": 38,
+    "question": " Cum veţi proceda dacă la intrarea într-o intersecţie semaforul este pe semnalul de culoare verde, dar aceasta este blocată din cauza aglomeraţiei?",
+    "possibleAnswers" : ["a) vă continuaţi deplasarea, deoarece semnalul verde vă permite acest lucru",
+      "b) claxonaţi şi găsiţi o modalitate de a avansa printre celelalte vehicule",
+      "c) opriţi şi aşteptaţi deblocarea, după care pătrundeţi în intersecţie pe semnalul verde al semaforului."],
+    "correctAnswers": ["c) opriţi şi aşteptaţi deblocarea, după care pătrundeţi în intersecţie pe semnalul verde al semaforului."]
+  },
+  {
+    "idQuestion": 39,
+    "question": " Puteţi opri sau staţiona regulamentar, cu toate luminile stinse, pe un drum iluminat, dacă vehiculul pe care îl conduceţi este vizibil de la o distanţă de cel puţin:",
+    "possibleAnswers" : ["a) 50 m",
+      "b) 100 m",
+      "c) 150 m."],
+    "correctAnswers": ["a) 50 m"]
+  },
+  {
+    "idQuestion": 40,
+    "question": " Care este limita maximă de viteză în localităţi?",
+    "possibleAnswers" : ["a) 60 km/h",
+      "b) 50 km/h",
+      "c) 40 km/h,"],
+    "correctAnswers": ["b) 50 km/h"]
+  }
+]
